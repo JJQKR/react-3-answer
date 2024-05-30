@@ -7,7 +7,7 @@ const INITIAL_DATA = [
     date: "2024-01-05",
     item: "식비",
     amount: 100000,
-    description: "세광양대창",
+    description: "세광양대창~~~",
   },
   {
     id: "4f60bace-03dc-458d-b0dc-d89ada034b29",
